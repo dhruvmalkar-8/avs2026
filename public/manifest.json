@@ -1,0 +1,16 @@
+{
+  "name": "Disaster Emergency Relay Network",
+  "short_name": "DisasterNet",
+  "description": "Offline Multi-Hop Emergency Relay Network for disaster relief",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/emergency-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
